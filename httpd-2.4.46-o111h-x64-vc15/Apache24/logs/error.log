@@ -1,0 +1,131 @@
+[Thu Nov 26 19:14:29.453194 2020] [mpm_winnt:notice] [pid 15892:tid 600] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h configured -- resuming normal operations
+[Thu Nov 26 19:14:29.453194 2020] [mpm_winnt:notice] [pid 15892:tid 600] AH00456: Server built: Sep 23 2020 12:41:41
+[Thu Nov 26 19:14:29.453194 2020] [core:notice] [pid 15892:tid 600] AH00094: Command line: 'D:\\httpd-2.4.46-o111h-x64-vc15\\Apache24\\bin\\httpd.exe -d D:/httpd-2.4.46-o111h-x64-vc15/Apache24'
+[Thu Nov 26 19:14:29.473193 2020] [mpm_winnt:notice] [pid 15892:tid 600] AH00418: Parent: Created child process 7348
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7348:tid 1412] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 26 20:04:09.510422 2020] [mpm_winnt:notice] [pid 15892:tid 600] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Nov 26 20:04:11.520359 2020] [mpm_winnt:notice] [pid 7348:tid 1412] AH00364: Child: All worker threads have exited.
+[Thu Nov 26 20:04:11.560547 2020] [mpm_winnt:notice] [pid 15892:tid 600] AH00430: Parent: Child process 7348 exited successfully.
+[Tue Dec 01 16:53:07.473032 2020] [mpm_winnt:notice] [pid 2436:tid 600] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h configured -- resuming normal operations
+[Tue Dec 01 16:53:07.475028 2020] [mpm_winnt:notice] [pid 2436:tid 600] AH00456: Server built: Sep 23 2020 12:41:41
+[Tue Dec 01 16:53:07.475028 2020] [core:notice] [pid 2436:tid 600] AH00094: Command line: 'D:\\httpd-2.4.46-o111h-x64-vc15\\Apache24\\bin\\httpd.exe -d D:/httpd-2.4.46-o111h-x64-vc15/Apache24'
+[Tue Dec 01 16:53:07.491953 2020] [mpm_winnt:notice] [pid 2436:tid 600] AH00418: Parent: Created child process 6284
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 6284:tid 1384] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 01 21:14:43.881619 2020] [mpm_winnt:notice] [pid 2436:tid 600] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 01 21:14:45.900542 2020] [mpm_winnt:notice] [pid 6284:tid 1384] AH00364: Child: All worker threads have exited.
+[Tue Dec 01 21:14:45.950036 2020] [mpm_winnt:notice] [pid 2436:tid 600] AH00430: Parent: Child process 6284 exited successfully.
+[Wed Dec 02 18:16:12.993358 2020] [mpm_winnt:notice] [pid 4820:tid 588] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h configured -- resuming normal operations
+[Wed Dec 02 18:16:12.995353 2020] [mpm_winnt:notice] [pid 4820:tid 588] AH00456: Server built: Sep 23 2020 12:41:41
+[Wed Dec 02 18:16:12.995353 2020] [core:notice] [pid 4820:tid 588] AH00094: Command line: 'D:\\httpd-2.4.46-o111h-x64-vc15\\Apache24\\bin\\httpd.exe -d D:/httpd-2.4.46-o111h-x64-vc15/Apache24'
+[Wed Dec 02 18:16:13.010344 2020] [mpm_winnt:notice] [pid 4820:tid 588] AH00418: Parent: Created child process 7736
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7736:tid 1384] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 02 22:16:20.767773 2020] [mpm_winnt:notice] [pid 4820:tid 588] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 02 22:16:22.774732 2020] [mpm_winnt:notice] [pid 7736:tid 1384] AH00364: Child: All worker threads have exited.
+[Wed Dec 02 22:16:22.794729 2020] [mpm_winnt:notice] [pid 4820:tid 588] AH00430: Parent: Child process 7736 exited successfully.
+[Fri Dec 04 20:23:49.878474 2020] [mpm_winnt:notice] [pid 1108:tid 568] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h configured -- resuming normal operations
+[Fri Dec 04 20:23:49.878474 2020] [mpm_winnt:notice] [pid 1108:tid 568] AH00456: Server built: Sep 23 2020 12:41:41
+[Fri Dec 04 20:23:49.878474 2020] [core:notice] [pid 1108:tid 568] AH00094: Command line: 'D:\\httpd-2.4.46-o111h-x64-vc15\\Apache24\\bin\\httpd.exe -d D:/httpd-2.4.46-o111h-x64-vc15/Apache24'
+[Fri Dec 04 20:23:49.898379 2020] [mpm_winnt:notice] [pid 1108:tid 568] AH00418: Parent: Created child process 1468
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 1468:tid 1384] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 04 22:18:26.931822 2020] [mpm_winnt:notice] [pid 1108:tid 568] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 04 22:18:28.942585 2020] [mpm_winnt:notice] [pid 1468:tid 1384] AH00364: Child: All worker threads have exited.
+[Fri Dec 04 22:18:28.971811 2020] [mpm_winnt:notice] [pid 1108:tid 568] AH00430: Parent: Child process 1468 exited successfully.
+[Sat Dec 05 14:17:39.039615 2020] [mpm_winnt:notice] [pid 13848:tid 592] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h configured -- resuming normal operations
+[Sat Dec 05 14:17:39.041610 2020] [mpm_winnt:notice] [pid 13848:tid 592] AH00456: Server built: Sep 23 2020 12:41:41
+[Sat Dec 05 14:17:39.041610 2020] [core:notice] [pid 13848:tid 592] AH00094: Command line: 'D:\\httpd-2.4.46-o111h-x64-vc15\\Apache24\\bin\\httpd.exe -d D:/httpd-2.4.46-o111h-x64-vc15/Apache24'
+[Sat Dec 05 14:17:39.054577 2020] [mpm_winnt:notice] [pid 13848:tid 592] AH00418: Parent: Created child process 14348
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 14348:tid 1384] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 05 16:18:54.968207 2020] [mpm_winnt:notice] [pid 13848:tid 592] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 05 16:18:56.983154 2020] [mpm_winnt:notice] [pid 14348:tid 1384] AH00364: Child: All worker threads have exited.
+[Sat Dec 05 16:18:57.012677 2020] [mpm_winnt:notice] [pid 13848:tid 592] AH00430: Parent: Child process 14348 exited successfully.
+[Sat Dec 05 16:31:39.297551 2020] [mpm_winnt:notice] [pid 996:tid 616] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h configured -- resuming normal operations
+[Sat Dec 05 16:31:39.297551 2020] [mpm_winnt:notice] [pid 996:tid 616] AH00456: Server built: Sep 23 2020 12:41:41
+[Sat Dec 05 16:31:39.297551 2020] [core:notice] [pid 996:tid 616] AH00094: Command line: 'D:\\httpd-2.4.46-o111h-x64-vc15\\Apache24\\bin\\httpd.exe -d D:/httpd-2.4.46-o111h-x64-vc15/Apache24'
+[Sat Dec 05 16:31:39.297551 2020] [mpm_winnt:notice] [pid 996:tid 616] AH00418: Parent: Created child process 6308
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 6308:tid 1384] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 05 16:45:12.662933 2020] [mpm_winnt:notice] [pid 996:tid 616] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 05 16:45:14.689660 2020] [mpm_winnt:notice] [pid 6308:tid 1384] AH00364: Child: All worker threads have exited.
+[Sat Dec 05 16:45:14.739658 2020] [mpm_winnt:notice] [pid 996:tid 616] AH00430: Parent: Child process 6308 exited successfully.
+[Mon Dec 07 21:25:27.444460 2020] [mpm_winnt:notice] [pid 13976:tid 600] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h configured -- resuming normal operations
+[Mon Dec 07 21:25:27.445460 2020] [mpm_winnt:notice] [pid 13976:tid 600] AH00456: Server built: Sep 23 2020 12:41:41
+[Mon Dec 07 21:25:27.445460 2020] [core:notice] [pid 13976:tid 600] AH00094: Command line: 'D:\\httpd-2.4.46-o111h-x64-vc15\\Apache24\\bin\\httpd.exe -d D:/httpd-2.4.46-o111h-x64-vc15/Apache24'
+[Mon Dec 07 21:25:27.458393 2020] [mpm_winnt:notice] [pid 13976:tid 600] AH00418: Parent: Created child process 6868
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 6868:tid 1384] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 07 22:19:15.278799 2020] [mpm_winnt:notice] [pid 13976:tid 600] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 07 22:19:17.299474 2020] [mpm_winnt:notice] [pid 6868:tid 1384] AH00364: Child: All worker threads have exited.
+[Mon Dec 07 22:19:17.339478 2020] [mpm_winnt:notice] [pid 13976:tid 600] AH00430: Parent: Child process 6868 exited successfully.
+[Thu Dec 10 20:44:55.590505 2020] [mpm_winnt:notice] [pid 12516:tid 712] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h configured -- resuming normal operations
+[Thu Dec 10 20:44:55.590505 2020] [mpm_winnt:notice] [pid 12516:tid 712] AH00456: Server built: Sep 23 2020 12:41:41
+[Thu Dec 10 20:44:55.590505 2020] [core:notice] [pid 12516:tid 712] AH00094: Command line: 'D:\\httpd-2.4.46-o111h-x64-vc15\\Apache24\\bin\\httpd.exe -d D:/httpd-2.4.46-o111h-x64-vc15/Apache24'
+[Thu Dec 10 20:44:55.610486 2020] [mpm_winnt:notice] [pid 12516:tid 712] AH00418: Parent: Created child process 12736
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 12736:tid 1388] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 10 22:16:42.152133 2020] [mpm_winnt:notice] [pid 12516:tid 712] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 10 22:16:44.171668 2020] [mpm_winnt:notice] [pid 12736:tid 1388] AH00364: Child: All worker threads have exited.
+[Thu Dec 10 22:16:44.221630 2020] [mpm_winnt:notice] [pid 12516:tid 712] AH00430: Parent: Child process 12736 exited successfully.
+[Tue Dec 15 20:51:23.711025 2020] [mpm_winnt:notice] [pid 13604:tid 564] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h configured -- resuming normal operations
+[Tue Dec 15 20:51:23.713019 2020] [mpm_winnt:notice] [pid 13604:tid 564] AH00456: Server built: Sep 23 2020 12:41:41
+[Tue Dec 15 20:51:23.713019 2020] [core:notice] [pid 13604:tid 564] AH00094: Command line: 'D:\\httpd-2.4.46-o111h-x64-vc15\\Apache24\\bin\\httpd.exe -d D:/httpd-2.4.46-o111h-x64-vc15/Apache24'
+[Tue Dec 15 20:51:23.726952 2020] [mpm_winnt:notice] [pid 13604:tid 564] AH00418: Parent: Created child process 3472
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 3472:tid 1388] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 15 20:53:42.037007 2020] [mpm_winnt:notice] [pid 13604:tid 564] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 15 20:53:44.037998 2020] [mpm_winnt:notice] [pid 3472:tid 1388] AH00364: Child: All worker threads have exited.
+[Tue Dec 15 20:53:44.059619 2020] [mpm_winnt:notice] [pid 13604:tid 564] AH00430: Parent: Child process 3472 exited successfully.
+[Tue Dec 22 14:40:38.830749 2020] [mpm_winnt:notice] [pid 11044:tid 640] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h configured -- resuming normal operations
+[Tue Dec 22 14:40:38.831757 2020] [mpm_winnt:notice] [pid 11044:tid 640] AH00456: Server built: Sep 23 2020 12:41:41
+[Tue Dec 22 14:40:38.831757 2020] [core:notice] [pid 11044:tid 640] AH00094: Command line: 'D:\\httpd-2.4.46-o111h-x64-vc15\\Apache24\\bin\\httpd.exe -d D:/httpd-2.4.46-o111h-x64-vc15/Apache24'
+[Tue Dec 22 14:40:38.838685 2020] [mpm_winnt:notice] [pid 11044:tid 640] AH00418: Parent: Created child process 7852
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7852:tid 1388] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 22 14:47:33.175063 2020] [mpm_winnt:notice] [pid 11044:tid 640] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 22 14:47:35.176921 2020] [mpm_winnt:notice] [pid 7852:tid 1388] AH00364: Child: All worker threads have exited.
+[Tue Dec 22 14:47:35.204844 2020] [mpm_winnt:notice] [pid 11044:tid 640] AH00430: Parent: Child process 7852 exited successfully.
+[Wed Feb 17 12:56:47.764551 2021] [mpm_winnt:notice] [pid 7200:tid 480] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h configured -- resuming normal operations
+[Wed Feb 17 12:56:47.766545 2021] [mpm_winnt:notice] [pid 7200:tid 480] AH00456: Server built: Sep 23 2020 12:41:41
+[Wed Feb 17 12:56:47.766545 2021] [core:notice] [pid 7200:tid 480] AH00094: Command line: 'D:\\httpd-2.4.46-o111h-x64-vc15\\Apache24\\bin\\httpd.exe -d D:/httpd-2.4.46-o111h-x64-vc15/Apache24'
+[Wed Feb 17 12:56:47.779493 2021] [mpm_winnt:notice] [pid 7200:tid 480] AH00418: Parent: Created child process 10892
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 10892:tid 1388] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 17 13:38:56.854523 2021] [mpm_winnt:notice] [pid 7200:tid 480] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Feb 17 13:38:58.867465 2021] [mpm_winnt:notice] [pid 10892:tid 1388] AH00364: Child: All worker threads have exited.
+[Wed Feb 17 13:38:58.881916 2021] [mpm_winnt:notice] [pid 7200:tid 480] AH00430: Parent: Child process 10892 exited successfully.
+[Wed May 05 19:03:18.099924 2021] [mpm_winnt:notice] [pid 17244:tid 668] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h configured -- resuming normal operations
+[Wed May 05 19:03:18.101919 2021] [mpm_winnt:notice] [pid 17244:tid 668] AH00456: Server built: Sep 23 2020 12:41:41
+[Wed May 05 19:03:18.101919 2021] [core:notice] [pid 17244:tid 668] AH00094: Command line: 'D:\\httpd-2.4.46-o111h-x64-vc15\\Apache24\\bin\\httpd.exe -d D:/httpd-2.4.46-o111h-x64-vc15/Apache24'
+[Wed May 05 19:03:18.109940 2021] [mpm_winnt:notice] [pid 17244:tid 668] AH00418: Parent: Created child process 19656
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 19656:tid 1388] AH00354: Child: Starting 64 worker threads.
+[Wed May 05 20:35:29.036372 2021] [mpm_winnt:notice] [pid 17244:tid 668] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed May 05 20:35:31.049032 2021] [mpm_winnt:notice] [pid 19656:tid 1388] AH00364: Child: All worker threads have exited.
+[Wed May 05 20:35:31.092875 2021] [mpm_winnt:notice] [pid 17244:tid 668] AH00430: Parent: Child process 19656 exited successfully.
+[Thu May 06 10:22:49.391472 2021] [mpm_winnt:notice] [pid 3100:tid 528] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h configured -- resuming normal operations
+[Thu May 06 10:22:49.392470 2021] [mpm_winnt:notice] [pid 3100:tid 528] AH00456: Server built: Sep 23 2020 12:41:41
+[Thu May 06 10:22:49.392470 2021] [core:notice] [pid 3100:tid 528] AH00094: Command line: 'D:\\httpd-2.4.46-o111h-x64-vc15\\Apache24\\bin\\httpd.exe -d D:/httpd-2.4.46-o111h-x64-vc15/Apache24'
+[Thu May 06 10:22:49.401446 2021] [mpm_winnt:notice] [pid 3100:tid 528] AH00418: Parent: Created child process 5132
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 5132:tid 1388] AH00354: Child: Starting 64 worker threads.
+[Thu May 06 10:37:01.840490 2021] [mpm_winnt:notice] [pid 3100:tid 528] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 06 10:37:03.842138 2021] [mpm_winnt:notice] [pid 5132:tid 1388] AH00364: Child: All worker threads have exited.
+[Thu May 06 10:37:03.861088 2021] [mpm_winnt:notice] [pid 3100:tid 528] AH00430: Parent: Child process 5132 exited successfully.
+[Fri Jun 04 18:46:52.920192 2021] [mpm_winnt:notice] [pid 17108:tid 512] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h configured -- resuming normal operations
+[Fri Jun 04 18:46:52.920192 2021] [mpm_winnt:notice] [pid 17108:tid 512] AH00456: Server built: Sep 23 2020 12:41:41
+[Fri Jun 04 18:46:52.920192 2021] [core:notice] [pid 17108:tid 512] AH00094: Command line: 'D:\\httpd-2.4.46-o111h-x64-vc15\\Apache24\\bin\\httpd.exe -d D:/httpd-2.4.46-o111h-x64-vc15/Apache24'
+[Fri Jun 04 18:46:52.930185 2021] [mpm_winnt:notice] [pid 17108:tid 512] AH00418: Parent: Created child process 16240
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 16240:tid 1316] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 04 21:24:25.760500 2021] [mpm_winnt:notice] [pid 17108:tid 512] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jun 04 21:24:27.779419 2021] [mpm_winnt:notice] [pid 16240:tid 1316] AH00364: Child: All worker threads have exited.
+[Fri Jun 04 21:24:27.798737 2021] [mpm_winnt:notice] [pid 17108:tid 512] AH00430: Parent: Child process 16240 exited successfully.
+[Thu Jan 20 19:32:20.999905 2022] [mpm_winnt:notice] [pid 1648:tid 512] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h configured -- resuming normal operations
+[Thu Jan 20 19:32:21.000904 2022] [mpm_winnt:notice] [pid 1648:tid 512] AH00456: Server built: Sep 23 2020 12:41:41
+[Thu Jan 20 19:32:21.000904 2022] [core:notice] [pid 1648:tid 512] AH00094: Command line: 'D:\\httpd-2.4.46-o111h-x64-vc15\\Apache24\\bin\\httpd.exe -d D:/httpd-2.4.46-o111h-x64-vc15/Apache24'
+[Thu Jan 20 19:32:21.008912 2022] [mpm_winnt:notice] [pid 1648:tid 512] AH00418: Parent: Created child process 8396
+[Thu Jan 20 19:32:22.874445 2022] [mpm_winnt:notice] [pid 8396:tid 1320] AH00354: Child: Starting 64 worker threads.
